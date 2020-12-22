@@ -12,7 +12,7 @@ end
 
 introduction("bob")
 introduction_with_language("bob", "ruby")
-introduction_with_language_optional("ruby")
+introduction_with_language_optional("bob","ruby")
 
 
 
