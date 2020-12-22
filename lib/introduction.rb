@@ -12,7 +12,7 @@ end
 
 introduction("Edwin")
 introduction_with_language("Edwin", "Python")
-introduction_with_language_optional("Edwin", "Python")
+introduction_with_language_optional("Edwin")
 
 
 
